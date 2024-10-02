@@ -1,5 +1,5 @@
 {
-  "name": "healthbooker",
+  "name": "Appointment Helper",
   "version": "2.0.0",
   "description": "Doctor appointment website",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "start": "node server.js",
     "build" : "npm i"
   },
-  "author": "Avinash905",
+  "author": "Siddhi Jain",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
